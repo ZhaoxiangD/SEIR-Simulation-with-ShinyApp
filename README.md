@@ -1,14 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
-# Final Project: Jiahao, Yingjie, Zhaoxiang
-
-## Topic: Sample Project 1: SEIR Model w/ Age Stratification for Infectious Diseases (Compartment Model)
-
-Our submitted files include: README.md, shiny app(app.R), test data(toy_data.csv), and the shiny app html is published on: <https://zhaoxiangding.shinyapps.io/FinalProject/>
-
 ## Introduction
 
 Our final project mainly contains two parts: a traditional SEIR model with theoretical analysis which can give users an understanding of how parameters and initial value will affect the solution of an ordinal derivative equation through interaction with Shiny App. A complicated Age Stratification SEIR model that considers more practical situations simulates the spread of COVID-19.
